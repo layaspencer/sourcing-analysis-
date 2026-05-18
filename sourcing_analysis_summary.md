@@ -3,6 +3,13 @@
 ## Objective
 Analyze a fictional sourcing/recruitment dataset to identify which sourcing strategies convert best, which candidate signals indicate higher probability of advancement, where conversion drops, and how recruiters can prioritize follow-up.
 
+## Strategic Framing
+This project was approached as a recruiter decision-support analysis.
+Instead of only reporting funnel metrics, the analysis focuses on how recruiters can use sourcing data to prioritize candidates, identify risks earlier, and reduce time spent on low-probability profiles.
+The central question guiding the analysis was:
+> How can recruiters spend more time on candidates with stronger advancement signals and less time on candidates with recurring low-conversion patterns?
+This framing supports a more practical use of the data by connecting funnel performance, candidate signals, recruiter activity, and AI-assisted qualitative analysis.
+
 ## Dataset Overview
 - Total candidates: 601
 - Total fields: 35
@@ -36,6 +43,17 @@ AI was used to support the qualitative part of the analysis by creating a consis
 - Persist with candidates who show strong technical and manager scores, reach the test stage, and have timing-related concerns rather than capability gaps.
 - Deprioritize candidates with repeated no-response patterns, low engagement, or clear salary mismatch unless the role has flexibility.
 - Compare follow-up and qualification practices from stronger-performing recruiter funnels to identify replicable behaviors.
+
+## Recruiter Action Framework
+
+The analysis supports a four-category recruiter action model:
+
+| Category | Candidate Pattern | Recommended Action |
+|---|---|---|
+| High Priority | Strong scores, good engagement, advanced funnel progress | Prioritize follow-up and keep process moving |
+| Nurture | Strong potential but timing or availability issue | Keep warm for future opportunities |
+| Risk / Validate Early | Salary concern, unclear motivation, mixed signals | Clarify risk before investing more time |
+| Low Probability | No response, failed assessment, low fit, repeated low engagement | Deprioritize unless new information appears |
 
 ## Limitations
 - This is a fictional dataset, so recommendations should be interpreted as analytical patterns rather than definitive business rules.
