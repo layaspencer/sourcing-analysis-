@@ -21,7 +21,8 @@ This analysis aims to answer:
 
 ## Project Structure
 
-- `sourcing_analysis.ipynb` — main analysis notebook and solution demonstration
+- `sourcing_analysis.ipynb` — main analysis notebook and technical solution demonstration
+- `sourcing_analysis_presentation.pptx` — short visual presentation used as an additional solution walkthrough
 - `sourcing_analysis_report.pdf` — short report explaining the approach, AI usage, key insights, and recommendations
 - `sourcing_analysis_summary.md` — written summary of the analysis
 - `mock_sourcing_dataset.csv` — dataset used by the notebook
